@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Cozy Cat Bed",
+    "nameAr": "سرير قطط مريح",
+    "old_price": 59.99,
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=500",
+    "category": "Furniture"
+  },
+  {
+    "id": 2,
+    "name": "Interactive Laser Toy",
+    "nameAr": "لعبة ليزر تفاعلية",
+    "old_price": 29.99,
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=500",
+    "category": "Toys"
+  },
+  {
+    "id": 3,
+    "name": "Organic Cat Food",
+    "nameAr": "طعام قطط عضوي",
+    "old_price": 39.99,
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=500",
+    "category": "Food"
+  }
+]
